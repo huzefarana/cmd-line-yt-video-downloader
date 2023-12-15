@@ -1,12 +1,17 @@
 
-#create virtual env
+## Create virtual env
+```bash
 python -m venv venv
-
-#activate venv
+```
+## Activate venv
+```bash
 source venv/bin/activate
-
-#install requirements.txt
+```
+## Install requirements.txt
+```bash
 pip install -r requirements.txt
-
-#run app
+```
+# Run app
+```bash
 python main.py
+```
