@@ -1,4 +1,11 @@
-
+## Clone repository
+```bash
+git clone https://github.com/huzefarana/yt-video-downloader/
+```
+## Change directory
+```base
+cd yt-video-downloader/
+```
 ## Create virtual env
 ```bash
 python -m venv venv
