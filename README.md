@@ -1,4 +1,4 @@
-## Clone repository
+## Clone repo
 ```bash
 git clone https://github.com/huzefarana/yt-video-downloader/
 ```
